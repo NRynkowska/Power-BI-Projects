@@ -6,7 +6,7 @@ Welcome to the "Power BI Projects" repository! This repository serves as a colle
 
 ### Supermarket Sales Report
 
-![Supermarket Sales Report](/Supermarket%20Sales%20Report/Screenshot.png)
+![Supermarket Sales Report](/Supermarket%20Sales%20Report)
 
 - **Description:** This project provides a comprehensive sales report for a fictional supermarket. It includes visualizations of sales trends, product performance, and customer demographics in 3 cities. Report includes payment type statistics as well.
 

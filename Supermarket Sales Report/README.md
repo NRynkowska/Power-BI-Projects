@@ -1,7 +1,5 @@
 # Supermarket Sales Report
 
-![Overall Dashboard](overall-dashboard.png)
-
 Welcome to the "Supermarket Sales Report" Power BI project. This report provides a comprehensive analysis of supermarket sales data, offering insights into sales trends, product performance, and customer demographics in 3 cities.
 
 ## Screenshots
